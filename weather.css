@@ -50,6 +50,15 @@ input[type="text"] {
     font-size: 22px;
 }
 
+button {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+    font-size: 23px;
+}
 
 button:hover {
     background-color: #000000;
