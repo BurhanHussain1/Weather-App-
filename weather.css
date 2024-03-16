@@ -15,16 +15,16 @@ body {
 
 .logo {
     text-align: center;
-    margin: 40px;
+    margin: 30px;
 }
 
 .logo i {
-    font-size: 100px;
+    font-size: 70px;
     color:  rgb(87, 81, 81);
 }
 
 .logo span {
-    font-size: 110px;
+    font-size: 75px;
     color:  rgb(255, 255, 254);
 }
 
